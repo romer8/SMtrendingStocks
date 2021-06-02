@@ -1,0 +1,12 @@
+name: sm_stocks
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.7
+  - sqlalchemy
+  - flask-sqlalchemy
+  - flask
+  - numpy
+  - pandas
+  - pip:
+    - pmaw
