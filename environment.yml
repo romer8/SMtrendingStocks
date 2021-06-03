@@ -8,5 +8,6 @@ dependencies:
   - flask
   - numpy
   - pandas
+  - pip
   - pip:
     - pmaw
